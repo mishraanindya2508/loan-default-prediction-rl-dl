@@ -1,0 +1,15 @@
+# data & outputs
+data/
+*.csv
+models/
+*.pt
+*.pth
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+
+# Python
+__pycache__/
